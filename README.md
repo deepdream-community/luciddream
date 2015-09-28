@@ -1,4 +1,6 @@
 # luciddream
+
+[![Join the chat at https://gitter.im/deepdream-community/luciddream](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deepdream-community/luciddream?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Google's deepdream script as a web server, with webcam support in browser. Built for speed.
 
 # Installation & Usage
